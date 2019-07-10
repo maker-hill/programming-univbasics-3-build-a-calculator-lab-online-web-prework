@@ -16,7 +16,8 @@ def division(num1, num2)
 end
 division(50,2)
 def multiplication(num1, num2)
-
+  product = num1 * num2
+  return product
 end
 
 def modulo(num1, num2)
