@@ -21,7 +21,7 @@ def multiplication(num1, num2)
 end
 division(4,30)
 
-ef modulo(num1, num2)
+def modulo(num1,num2
 
 end
 
