@@ -23,10 +23,9 @@ division(4,30)
 
 def modulo(num1,num2)
   mod = num1 % num2
-  
-
+  return mod
 end
-
+modulo()
 def square_root(num)
 
 end
