@@ -30,4 +30,4 @@ def square_root(num)
   root = num **9
   return root
 end
-square_root(9)
+square_root(81)
