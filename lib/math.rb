@@ -14,7 +14,7 @@ def division(num1, num2)
   quoti = num1 / num2
    return quoti
 end
-division()
+division(50,2)
 def multiplication(num1, num2)
 
 end
