@@ -19,8 +19,9 @@ def multiplication(num1, num2)
   product = num1 * num2
   return product
 end
+division(4,30)
 
-def modulo(num1, num2)
+ef modulo(num1, num2)
 
 end
 
