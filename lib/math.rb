@@ -27,7 +27,7 @@ def modulo(num1,num2)
 end
 modulo(34,5)
 def square_root(num)
-  root = num **9
+  root = num 
   return root
 end
 square_root(81)
